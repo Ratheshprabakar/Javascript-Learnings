@@ -1,1 +1,2 @@
-# Javascript-Learnings
+# Simple Calculator
+
